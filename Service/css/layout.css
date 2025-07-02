@@ -90,8 +90,8 @@ html{font-size:24px;min-width: 320px; max-width: 2000px;margin: 0 auto; overflow
 .submenu li:hover a{ color: #0073ba; }
 
 @media (max-width: 768px) {
-    .sidebar{display: block;}
-    .gnb{display: block;}    
+    .sidebar{display: none;}
+    .gnb{display: inline-block;}    
 }
 
 
