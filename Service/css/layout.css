@@ -43,7 +43,7 @@ html{font-size:24px;min-width: 320px; max-width: 2000px;margin: 0 auto; overflow
 .header_top h1 a{ display: block; }
 
 
-@media (max-width: 768px) {
+@media (max-width: 768pxs) {
     .header_top h1{ display: inline-block;}
     .header_top{ position: relative; }
     .header_top .wrap{ height: 3.1rem; line-height: 3.1rem; }
@@ -91,7 +91,7 @@ html{font-size:24px;min-width: 320px; max-width: 2000px;margin: 0 auto; overflow
 
 @media (max-width: 768px) {
     .sidebar{display: block;}
-    .gnb{display: none;}    
+    .gnb{display: block;}    
 }
 
 
