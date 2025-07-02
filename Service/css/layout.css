@@ -92,7 +92,7 @@ html{font-size:24px;min-width: 320px; max-width: 2000px;margin: 0 auto; overflow
 @media (max-width: 768px) {
     .sidebar{display: none;}
 	.gnb .gnb_wrap{ line-height: 3.1rem; height: 3.1rem; }
-	.gnb .gnb_wrap > li{ display: inline-block; font-size: 0.67rem; padding: 0 0.27rem; position: relative; background-color: #fff; }
+	.gnb .gnb_wrap > li{ display: inline-block; font-size: 0.57rem; padding: 0 0.27rem; position: relative; background-color: #fff; }
 	.gnb .gnb_wrap > li:after{ content: ''; display: block; width: 0.5px; height: 0.67rem; background-color: #adadad; position: absolute; top: 50%; right: 0px; -ms-transform: translateY(-50%); -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -o-transform: translateY(-50%); transform: translateY(-50%); }
 	.subGnb{ position: absolute; top: calc(3.1rem + 1px); right:0; z-index: 1001; line-height: 2.2rem; background: #fff; display: none; width: 100%; padding: 0.5rem 0; }
 	.gnb{display: block;}    
