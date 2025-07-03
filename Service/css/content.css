@@ -76,7 +76,7 @@ a, span, p{ letter-spacing: -0.02em; }
 .subCont h3:before{ content: ''; display: block; width: 3.08rem; height: 3.08rem; background: url('../images/square.png')no-repeat; position: absolute; left: -1.33rem; top: -1.33rem; }
 .subCont h4{ font-size: 1.25rem; padding-bottom: 1rem; font-weight: 800; }
 @media (max-width: 600px) {
-    .subCont h3{ padding-left: 1.33rem; }
+    .subCont h3{ padding-left: 1.33rem; font-size: 0.5rem;}
     .subCont h3:before{ left: 0; }
 }
 
