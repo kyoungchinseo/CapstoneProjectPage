@@ -66,9 +66,9 @@ html{font-size:24px;min-width: 320px; max-width: 2000px;margin: 0 auto; overflow
 .subGnb{ text-align: center; min-height: calc(4rem + 54px); }
 .subGnb > li{ font-size: 0.58rem; vertical-align: top; line-height: 1rem; }
 .subGnb > li a:hover{ color: #0073ba; }
-.subGnb01{ border: 2px solid #0073ba; border-right: none; }
+.subGnb01{ border: 2px solid #0073ba; border-right: none; height: 170px}
 .subGnb02{ border: 2px solid #0073ba; border-right: none; border-left: none;}
-.subGnb03{ border: 2px solid #0073ba; border-left: none;}
+.subGnb03{ border: 2px solid #0073ba; border-left: none; height: 170px;}
 
 
 /*Header nav-모바일뷰 메뉴*/
